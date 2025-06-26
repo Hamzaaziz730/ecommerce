@@ -1,1 +1,1 @@
-Welcome from LOGIN branch
+Welcome merged from both branches
